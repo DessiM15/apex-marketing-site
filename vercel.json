@@ -1,4 +1,6 @@
 {
-  "buildCommand": null,
-  "outputDirectory": "html"
+  "framework": null,
+  "buildCommand": "",
+  "outputDirectory": "html",
+  "installCommand": ""
 }
