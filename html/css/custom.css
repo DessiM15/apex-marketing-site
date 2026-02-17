@@ -52,12 +52,12 @@
 	--secondary-color			: #FFFFFF;
 	--bg-color					: #F5F5F5;
 	--text-color				: #4B535D;
-	--accent-color				: #097C7D;
-	--accent-secondary-color	: #20282D;
+	--accent-color				: #213d85;
+	--accent-secondary-color	: #243a91;
 	--white-color				: #FFFFFF;
 	--divider-color				: #0A11191A;
 	--dark-divider-color		: #FFFFFF1A;
-	--error-color				: rgb(230, 87, 87);
+	--error-color				: #cc1a1f;
 	--default-font				: "Public Sans", sans-serif;;
 	--accent-font				: "Mona Sans", sans-serif;;
 }
